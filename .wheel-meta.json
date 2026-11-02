@@ -1,0 +1,22 @@
+{
+  "wheel_id": 663,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-com-152",
+  "project": "seo-services-brisbane-what-to-expect-83889cce839dc1ee0e0b32b7a5",
+  "parent_t1_ref": "theseocompanybrisbane.com-010",
+  "node_role": "buffer",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane what to expect",
+  "intended_url": "http://seo-services-brisbane-what-to-expect-83889cce839dc1ee0e0b32b7a5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "03104191cd30f4ae",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/theseocompanybrisbane.com-010/",
+      "anchor": "Seo Services Brisbane: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
